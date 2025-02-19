@@ -18,7 +18,7 @@ An interactive Tableau Dashboard can be found [here](https://public.tableau.com/
 
 The data cleaning and data inspection using python can be found [here](https://github.com/devapratama/mall-customer-sales-analysis/blob/master/data_cleaning_pipeline.ipynb).
 
-Targeted SQL queries regarding various business question can be found [here](https://github.com/devapratama/mall-customer-sales-analysis/blob/master/mall_customer_sales_deepdive.sql).
+SQL queries for analyzing deep dives can be found [here](https://github.com/devapratama/mall-customer-sales-analysis/blob/master/mall_customer_sales_deepdive.sql), as well as excel files can be found [here](https://github.com/devapratama/mall-customer-sales-analysis/blob/master/mall_customer_sales_analysis.xlsx).
 
 ---
 
